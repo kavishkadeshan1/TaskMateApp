@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_red">#FF453A</color>
+    <color name="soft_bg">#121212</color>
+    <color name="card_bg">#2A211C</color>
+    <color name="text_dark">#FFFFFF</color>
+    <color name="text_gray">#C7C7C7</color>
+    <color name="field_stroke">#6E6E6E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="link_orange_red">#FF7043</color>
+
+    <color name="profile_card_bg">#242424</color>
+    <color name="dialog_bg">#1E1E1E</color>
+    <color name="input_bg">#312D36</color>
+    <color name="purple_main">#9B7DFF</color>
+</resources>
