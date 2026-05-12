@@ -1,2 +1,4 @@
-**Name - K.G.K.DESHAN    ||  
-Index Number - 2023t01855  **
+## 👨‍💻 Student Information
+
+**Name :** K.G.K. DESHAN  <br>
+**Index Number :** 2023T01855
